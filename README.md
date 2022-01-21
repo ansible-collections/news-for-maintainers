@@ -3,7 +3,7 @@ Announcements of changes impacting Ansible collection contributors and maintaine
 
 This repository is created in accordance with the [Community decision](https://github.com/ansible-community/community-topics/issues/51) as a replacement for [Issue 45](https://github.com/ansible-collections/overview/issues/45) to track changes that Ansible collection maintainers should be aware of.
 
-If you are a collection maintainer, please subscribe to this repository using the ``Watch`` button in the upper right corner of the GitHub web interface.
+If you are a collection maintainer, please subscribe to this repository using the `Watch` button in the upper right corner of the GitHub web interface.
 
 The news are made via issues - one per announcement.
 

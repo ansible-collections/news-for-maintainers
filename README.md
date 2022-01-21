@@ -19,3 +19,8 @@ The news are made via issues - one per announcement.
 - Pull request review days announcements.
 - Changes in the changelog format.
 - Collection documentation markup changes.
+
+# Guidelines
+
+- Please do **not** create issues to ask questions. Join us on [Matrix or IRC](https://docs.ansible.com/ansible/latest/community/communication.html#real-time-chat) instead.
+- Please avoid unnecessary discussions in issues. Every comment posted will notify **a lot** of folks! You can add reactions to an issue/a comment instead for feedback that does not annoy everyone.

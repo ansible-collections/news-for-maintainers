@@ -15,7 +15,7 @@ The news are made via issues - one per announcement.
 - Calls for CI test matrix updates to prevent failing tests.
 - Changes/reminders about freeze and version bump dates.
 - News and required actions related to libraries' deprecation.
-- Changes to ``ansibullbot`` workflow.
+- Changes to `ansibullbot` workflow.
 - Pull request review days announcements.
 - Changes in the changelog format.
 - Collection documentation markup changes.

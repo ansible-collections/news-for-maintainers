@@ -18,7 +18,7 @@ The news are made via issues - one per announcement.
 - Changes/reminders about freeze and version bump dates.
 - News and required actions related to libraries' deprecation.
 - Changes to `ansibullbot` workflow.
-- Pull request review days announcements.
+- Pull request review days and contributor summit announcements.
 - Changes in the changelog format.
 - Collection documentation markup changes.
 

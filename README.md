@@ -1,11 +1,11 @@
 # News for Maintainers
 Announcements of changes impacting Ansible collection contributors and maintainers.
 
-[Current open issues](https://github.com/ansible-collections/news-for-maintainers/issues).
+[Current open issues](https://github.com/ansible-collections/news-for-maintainers/issues) and [related discussions](https://github.com/ansible-collections/news-for-maintainers/discussions).
 
 This repository is created in accordance with the [Community decision](https://github.com/ansible-community/community-topics/issues/51) as a replacement for [Issue 45](https://github.com/ansible-collections/overview/issues/45) to track changes that Ansible collection maintainers should be aware of.
 
-If you are a collection maintainer, please subscribe to this repository using the `Watch` button in the upper right corner of the GitHub web interface.
+If you are a collection maintainer, please subscribe to this repository using the `Watch` button in the upper right corner of the GitHub web interface. If you do not want to get notifications about related discussions, subscribe to issues only.
 
 The news are made via issues - one per announcement.
 
@@ -24,5 +24,5 @@ The news are made via issues - one per announcement.
 
 # Guidelines
 
-- Please do **not** create issues to ask questions. Join us on [Matrix or IRC](https://docs.ansible.com/ansible/latest/community/communication.html#real-time-chat) instead.
-- Please avoid unnecessary discussions in issues. Every comment posted will notify **a lot** of folks! You can add reactions to an issue/a comment instead for feedback that does not annoy everyone.
+- Please do **not** create issues to ask questions. Join us on [Matrix or IRC](https://docs.ansible.com/ansible/latest/community/communication.html#real-time-chat) or create a `Discussion` and link it to the issue instead.
+- Please avoid unnecessary discussions in issues, use the `Discussions` feature as described above. Every comment posted will notify **a lot** of folks! You can add reactions to an issue/a comment instead for feedback that does not annoy everyone.

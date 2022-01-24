@@ -24,6 +24,6 @@ The news are made via issues - one per announcement.
 
 # Guidelines
 
-- Please do **not** create issues to ask questions. Join us on [Matrix or IRC](https://docs.ansible.com/ansible/latest/community/communication.html#real-time-chat) or create a `Discussion` and link it to the issue instead.
+- Please do **not** create issues to ask questions. Join us on [Matrix or IRC](https://docs.ansible.com/ansible/latest/community/communication.html#real-time-chat) or [create a Discussion](https://github.com/ansible-collections/news-for-maintainers/discussions/new) and link it to the issue instead.
 - Please avoid unnecessary discussions in issues, use the `Discussions` feature as described above. Every comment posted will notify **a lot** of folks! You can add reactions to an issue/a comment instead for feedback that does not annoy everyone.
 - If you reference an issue in this repository in a PR, avoid writing `Fixes` or `Closes` before it so that the issue is not closed when the PR is merged.

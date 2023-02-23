@@ -1,4 +1,7 @@
 # News for Maintainers
+
+[![Discuss on Matrix at #community:ansible.com](https://img.shields.io/matrix/community:ansible.com.svg?server_fqdn=ansible-accounts.ems.host&label=Discuss%20on%20Matrix%20at%20%23community:ansible.com&logo=matrix)](https://matrix.to/#/#community:ansible.com)
+
 Announcements of changes impacting Ansible collection contributors and maintainers.
 
 [Current open issues](https://github.com/ansible-collections/news-for-maintainers/issues) and [related discussions](https://github.com/ansible-collections/news-for-maintainers/discussions).

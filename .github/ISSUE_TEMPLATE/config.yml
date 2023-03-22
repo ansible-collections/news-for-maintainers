@@ -1,0 +1,21 @@
+# Ref: https://help.github.com/en/github/building-a-strong-community/configuring-issue-templates-for-your-repository#configuring-the-template-chooser
+blank_issues_enabled: false
+contact_links:
+- name: Create an **announcement**
+  url: https://github.com/ansible-collections/news-for-maintainers/issues/new
+  about: |
+    Use issues in this repositories only for announcements to collection maintainers.
+    By creating an issue you will spam a large amount of folks who will be annoyed if you post anything but a relevant announcement.
+    So **do not use this for anything but appropriate announcements!**
+- name: '**Discuss** an announcement'
+  url: https://github.com/ansible-collections/news-for-maintainers/discussions/new?category=general
+  about: If you want to **discuss an announcement**, use the Discussion feature of this repository. **Do not create an issue for this!**
+- name: 📝 Ansible **Code of Conduct**
+  url: https://docs.ansible.com/ansible/latest/community/code_of_conduct.html?utm_medium=github&utm_source=issue_template_chooser
+  about: ❤ Be nice to other members of the community. ☮ Behave.
+- name: 💬 Talk to the community
+  url: https://docs.ansible.com/ansible/latest/community/communication.html?utm_medium=github&utm_source=issue_template_chooser#mailing-list-information
+  about: Please ask and answer usage questions here
+- name: ⚡ Working groups
+  url: https://github.com/ansible/community/wiki
+  about: Interested in improving a specific area? Become a part of a working group!

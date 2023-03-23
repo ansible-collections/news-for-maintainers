@@ -10,7 +10,9 @@ This repository is created in accordance with the [Community decision](https://g
 
 If you are a collection maintainer, please subscribe to this repository using the `Watch` button in the upper right corner of the GitHub web interface. If you do not want to get notifications about related discussions, subscribe to issues only.
 
-The news are made via issues - one per announcement.
+The news are made via **issues** - one per announcement. Issues must not be used for anything else than announcements.
+
+**Discussions** can be used to discuss announcements. Do not use discussions for announcements.
 
 # Examples of news posted via this repository
 
